@@ -1,0 +1,16 @@
+.App {
+    min-height: 100vh;
+    width: 100vw;
+    display: flex;
+    background-image: url("../public/images/bg.webp");
+    background-size: cover;
+    background-position: center;
+}
+
+::-webkit-scrollbar {
+    width: 0px
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(136, 136, 136)
+}
